@@ -1,3 +1,3 @@
 # blogs
 
-本仓库用于记录知识笔记，见[wiki](https://github.com/Ljl-alone/blogs/wiki)
+个人博客仓库，见[wiki](https://github.com/Ljl-alone/blogs/wiki)
